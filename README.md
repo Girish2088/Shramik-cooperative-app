@@ -37,3 +37,8 @@ We built a **"Digital Labour Chowk"** powered by Cooperative Societies. Instead 
 1. **Install dependencies:**
    ```bash
    npm install
+
+2. **Start the app:**
+
+  ```bash
+   npx expo start    
